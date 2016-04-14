@@ -6,4 +6,5 @@
     Ctrl+b c - (c)reate a new window.
     Ctrl+b n - move to the (n)ext window.
     Ctrl+b p - move to the (p)revious window.
-
+    Modified in  here
+	
